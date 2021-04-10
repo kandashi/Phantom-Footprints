@@ -1,6 +1,6 @@
 {
-  "name": "module",
-  "title": "New Module",
+  "name": "Phantom-Footprints",
+  "title": "Phantom Footprints",
   "description": "",
   "version": "This is auto replaced",
   "library": "false",
@@ -9,7 +9,7 @@
   "compatibleCoreVersion": "0.7.9",
   "authors": [
     {
-      "name": "The League of Extraordinary FVTT Developers",
+      "name": "Kandashi",
       "url": "https://github.com/League-of-Foundry-Developers",
       "discord": "discordID#0001"
     }
@@ -22,9 +22,6 @@
   ],
   "esmodules": [
     "/scripts/module.js"
-  ],
-  "scripts": [
-    "/scripts/lib/lib.js"
   ],
   "styles": [
     "/styles/module.css"
