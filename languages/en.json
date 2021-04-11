@@ -3,11 +3,17 @@
     "Phantom-Footprints.step_hint": "What level of success to improve accuracy of footprints",
     "Phantom-Footprints.maxRadius_name": "Max Radius",
     "Phantom-Footprints.maxRadius_hint": "Max Radius for the footprints to appear",
+    "Phantom-Footprints.minRadius_name": "Min Radius",
+    "Phantom-Footprints.minRadius_hint": "Min Radius for the footprints to appear",
     "Phantom-Footprints.marker_name": "Footstep Maker",
     "Phantom-Footprints.maxIcon_name": "Max Steps per screen",
-    "Phantom-Footprints.maxIcon_hint" : "How many step icons are kept per screen before clearing",
-    "Phantom-Footprints.decayTime_name" : "Decay Time",
-    "Phantom-Footprints.decayTime_hint" : "How long in seconds before all steps are cleared"
-
-
+    "Phantom-Footprints.maxIcon_hint": "How many step icons are kept per screen before clearing",
+    "Phantom-Footprints.decayTime_name": "Decay Time",
+    "Phantom-Footprints.decayTime_hint": "How long in seconds before all steps are cleared",
+    "Phantom-Footprints.minPerDif_name": "Minimum Perception Difference",
+    "Phantom-Footprints.minPerDif_hint": "The minimum difference needed between the actors to reveal any footstep or ping",
+    "Phantom-Footprints.blindSight_name": "Blindsight",
+    "Phantom-Footprints.blindSight_hint": "Use Tokens Blindsight Radius for 'perfect' accuracy",
+    "Phantom-Footprints.checkArea_name": "Standard Area to check",
+    "Phantom-Footprints.checkArea_hint": "Radius around tokens to show footsteps"
 }
